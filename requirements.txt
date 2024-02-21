@@ -1,0 +1,8 @@
+pyautogen
+tiktoken
+scipy
+mwclient
+mwparserfromhell
+pandas
+tiktoken
+Ollama
